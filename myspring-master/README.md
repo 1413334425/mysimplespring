@@ -43,9 +43,6 @@ myspring代码中也尽量使用了源码的重要类名的定义，可以帮助
 (CSDN原地址查看)
 
 
-以上是我手写spring框架情况，欢迎大家指正。
---------------------- 
-作者：kuailebuzhidao 
-来源：CSDN 
+
 原文：https://blog.csdn.net/kuailebuzhidao/article/details/87869279 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
